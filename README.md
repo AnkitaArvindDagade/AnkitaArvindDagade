@@ -121,12 +121,6 @@ Android Development • Game Development
 
 ## 📈 GitHub Stats
 
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaArvindDagade&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnkitaArvindDagade&theme=tokyonight&hide_border=true)
 
 ---
